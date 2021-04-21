@@ -1,1 +1,2 @@
-    return 0;
+if(i<25)
+			printf(" ");
